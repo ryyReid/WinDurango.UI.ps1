@@ -40,8 +40,6 @@ The `Install-WinDurango-Fresh.ps1` script **does everything for you**:
 
 cd WinDurango.UI
 
-2\. Run the installer
-
 powershell
 
 Copy code
